@@ -1,0 +1,96 @@
+/* deafult settings */
+
+
+body
+{
+margin: 0px;
+padding: 0px;
+}
+
+
+/* menu */
+
+
+.main_menu
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.main_menu_text
+{
+    color: #fbfbfe;
+    text-decoration: none;
+}
+
+.main_menu_item
+{
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+    background-color: #2b2a33;
+    list-style-type: none;
+    
+}
+.active_main_menu 
+{
+    background-color: #e3a842;
+}
+
+.main_menu_item:hover
+{
+    animation-name: main_menu_hover;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+
+@keyframes main_menu_hover{
+    0% {}
+    100% {background-color: #e3a842;}
+
+}
+
+
+.title_bar
+{
+    margin: 0px;
+    padding: 10px;
+    padding-bottom: 20px;
+    background-color: #2b2a33;
+}
+
+
+.main_title
+{
+    font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: #fbfbfe;
+}
+
+
+
+
+
+/* page */
+
+
+/* title */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* made by mapi */
