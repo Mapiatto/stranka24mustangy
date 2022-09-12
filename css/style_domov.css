@@ -75,6 +75,9 @@ padding: 0px;
     font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
     font-size: 2rem;
     color: #fbfbfe;
+    position: relative;
+    top: -1.6rem;
+    left: 1rem;
 }
 
 
