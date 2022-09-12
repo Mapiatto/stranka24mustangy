@@ -63,6 +63,13 @@ padding: 0px;
     background-color: #2b2a33;
 }
 
+.title-img
+{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+}
+
 
 .main_title
 {
